@@ -12,4 +12,6 @@
     
 * Controller（控制层，调用业务逻辑产生合适的数据（Mode）传递数据给视图层用于呈现）        
 
+<img src="https://github.com/Eaaon/Basic-Spring-MVC/blob/master/Spring%20MVC%20chart.JPG">
+
 ### [Spring MVC起步视频 &rarr;](http://www.imooc.com/learn/47)
