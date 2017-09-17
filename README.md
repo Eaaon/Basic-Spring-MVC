@@ -6,4 +6,10 @@
 
 ## MVC(Model-View-Controller)
 
+* View
+     * 视图层，为用户提供UI，重点关注数据的呈现
+* Model
+     * 视图层，为用户提供UI，重点关注数据的呈现     
+* Controller
+     * 视图层，为用户提供UI，重点关注数据的呈现        
 
